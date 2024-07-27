@@ -87,16 +87,16 @@ header {
     cursor: pointer;
 }
 .home-content h2 {
-    color: var(--main-color);
+    color: black;
     font-size: var(--med-text);
     font-weight: 600;
 }
 .home-content h1 {
-    color: var(--text-color);
+    color: black;
     font-size: var(--big-text);
     font-weight: 800;
     line-height: 1.2em;
-    background-color: #f57236;
+    /* background-color: #f57236; */
 }
 .home-content span {
     color: var(--main-color);
@@ -139,7 +139,7 @@ header {
     cursor: pointer;
 }
 .about-content h3 {
-    color: var(--main-color);
+    color: black;
     font-size: var(--p-text);
     font-weight: 400;
     padding: 4.8rem 0 1rem 0;
@@ -148,7 +148,7 @@ header {
     color: var(--main-color);
 }
 .about-content h2 {
-    color: var(--main-color);
+    color: black;
     font-weight: 600;
     font-size: var(--med-text);
     text-transform: uppercase;
@@ -202,7 +202,7 @@ header {
 .contact-section h2 {
     padding-top: 3rem;
     font-size: var(--med-text);
-    color: var(--main-color);
+    color: black;
     font-weight: 600;
     text-align: center;
 }
